@@ -6,7 +6,6 @@ Created on Mon Nov  8 10:11:33 2021
 """
 
 import cv2
-from matplotlib import pyplot as plt
 import numpy as np
 import time
 # Opening image
